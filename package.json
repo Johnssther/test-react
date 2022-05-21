@@ -2,6 +2,7 @@
   "name": "miapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://129.146.185.172/test-react/build/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
